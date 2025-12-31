@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "installCommand": "cd news-reader && npm install",
+    "buildCommand": "cd news-reader && npm run build",
+    "outputDirectory": "news-reader/dist",
+    "framework": "vite"
+}
