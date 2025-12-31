@@ -2,8 +2,7 @@
 
 **WORLD INFO** is a premium, feature-rich news application built with React, Vite, and Tailwind CSS. It delivers the latest global headlines with a sleek, responsive design, offering robust search capabilities, category filtering, and a seamless reading experience across devices.
 
-![World Info Screenshot](/public/screenshot_placeholder.jpg) 
-*(Note: Replace with actual screenshot path if available)*
+![World Info Screenshot](../news-reader/src/media/cap%20pics.png)
 
 ## 🚀 Features
 
